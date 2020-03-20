@@ -1,7 +1,3 @@
-//
-//  ViewController.swift
-//  Conversores
-//
 //  Created by Glayce on 19/03/20.
 //  Copyright © 2020 Glayce. All rights reserved.
 //
